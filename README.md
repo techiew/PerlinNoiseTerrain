@@ -1,4 +1,6 @@
 ## PerlinNoiseTerrain
+This C++ program which uses OpenGL as the renderer randomly generates 3D terrain using [Perlin noise](https://www.youtube.com/watch?v=8ZEMLCnn8v0).
+
 To easily compile, set the project to build for Release in x86. The project is set to target the required libraries that are included in the repo.
 
 **Controls**
