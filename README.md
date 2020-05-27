@@ -1,5 +1,5 @@
 ## PerlinNoiseTerrain
-This C++ OpenGL program randomly generates fully traversable 3D terrain using [Perlin noise](https://www.youtube.com/watch?v=8ZEMLCnn8v0).
+This C++ OpenGL program randomly generates fully traversable 3D terrain using [Perlin noise](https://www.youtube.com/watch?v=8ZEMLCnn8v0). You can see the program in action in the video below.
 
 [![Video thumbnail](https://github.com/techiew/PerlinNoiseTerrain/blob/master/video%20thumbnail.png)](https://www.youtube.com/watch?v=2FzrSvOKK-A&feature=youtu.be)
 
