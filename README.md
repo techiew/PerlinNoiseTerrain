@@ -3,7 +3,7 @@ This C++ OpenGL program randomly generates fully traversable 3D terrain using [P
 
 [![Video thumbnail](https://github.com/techiew/PerlinNoiseTerrain/blob/master/video%20thumbnail.png)](https://www.youtube.com/watch?v=2FzrSvOKK-A&feature=youtu.be)
 
-To easily compile, set the project to build for Release in x86. The project is set to target the required libraries that are included in the repo.
+The only step you need to compile is to set the project to build for Release in x86. The project is already set to target the required libraries that are included in the repo.
 
 **Controls**
 
